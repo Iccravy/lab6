@@ -1,0 +1,51 @@
+body {
+    background: #1abc9c;
+	font-family: Tahoma, Arial, sans-serif;
+	color: #ffffff;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;	
+}
+
+div {
+    display: block;
+}
+.header a{
+	color: #ffffff;
+    float: right;
+    text-align: right;
+}
+
+.header img{
+    width: 318px;
+}
+.headera img{
+	display: block;
+    width: 318px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.headera a{
+	display: block;
+	color: #ffffff;
+    float: right;
+    text-align: right;
+}
+
+.article-info div {
+    display: inline;
+}
+
+.article-created-date {
+    float: right;
+    text-align: right;
+}
+
+.one-post a{
+	color: #ffffff; 
+
+}
+
+.article-text {
+    text-align: justify;
+}

@@ -1,0 +1,55 @@
+body {
+    background-color: #40f7ae;
+	width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    display: block;
+}
+
+.archive {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.article {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header a {
+    float: right;
+    text-align: right;
+}
+.headera a {
+	color: #ffffff
+    float: right;
+    text-align: right;
+}
+.headera img {
+	display: block;
+    width: 318px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.article-info div {
+    display: inline;
+}
+
+.article-created-date {
+    float: right;
+    text-align: right;
+}
+
+.center_pos {
+    text-align: center;
+}
+
+.article-text {
+    text-align: justify;
+}
